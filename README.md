@@ -84,3 +84,18 @@ Below are some sample outputs from the SQL analysis.
 
 ### Q20: Top Three Airports in Each City
 ![Q20](screenshots/q20_top_three_airports.png)
+
+# Tableau Dashboard
+
+The project also includes an interactive Tableau dashboard.
+
+### Dashboard Features
+- KPI Cards
+- Airport Activity Map
+- Monthly Flight Trend
+- Seat Occupancy Trend
+- Top 10 Origin Airports
+- Top 10 Destination Airports
+- Top Routes by Passengers
+
+📁 Dashboard files are available in the `dashboard` folder.
